@@ -1,0 +1,10 @@
+print("Cryptomaniacs")
+print("kavita")
+print("4")
+print("read")
+file = open("pairs_of_plaintexts.txt", "r+")
+for x in file:
+    print(x)
+    print("c")
+print("back")
+print("exit")

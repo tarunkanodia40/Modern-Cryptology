@@ -1,0 +1,5 @@
+climb/go
+read
+enter
+read
+password: iRqy3U5qdgt

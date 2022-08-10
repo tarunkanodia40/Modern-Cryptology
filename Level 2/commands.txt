@@ -1,0 +1,5 @@
+go
+Obtain the key from Morse Code -> CRYPTANALYSIS
+go
+read
+
